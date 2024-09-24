@@ -2,9 +2,6 @@
 
 This project analyzes British Airways customer reviews using web scraping and builds a predictive model for booking patterns. Web scraping was conducted using BeautifulSoup, and review analysis was performed with Latent Dirichlet Allocation (LDA). The final step involves building a machine learning model to predict customer booking intentions based on review sentiments.
 
-## Dataset
-
-The dataset was collected through web scraping and enriched with review data. [Kaggle Dataset Link](https://www.kaggle.com/code/meetnagadia/amazon-kindle-book-sentiment-analysis)
 
 ## Project Workflow
 
